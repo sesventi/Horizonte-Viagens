@@ -1,1 +1,37 @@
-<img width="804" height="2268" alt="image" src="https://github.com/user-attachments/assets/97453b66-ba35-4109-a200-2df89ad1c86a" />
+🌎 Horizonte Viagens
+Sistema de gestão para agência de turismo desenvolvido em PHP e MySQL.
+
+📋 Sobre o Projeto
+O Horizonte Viagens é um sistema web desenvolvido para auxiliar no gerenciamento de uma agência de turismo.
+
+O sistema permite controlar clientes, destinos, pacotes turísticos, reservas, pagamentos, relatórios e histórico de alterações.
+
+🚀 Tecnologias Utilizadas
+PHP
+MySQL
+HTML5
+CSS3
+JavaScript
+XAMPP
+phpMyAdmin
+✨ Funcionalidades
+Login de usuários
+Dashboard gerencial
+Cadastro de clientes
+Cadastro de destinos
+Gestão de pacotes turísticos
+Controle de reservas
+Controle de pagamentos
+Relatórios financeiros
+Exportação de relatórios
+Histórico de alterações
+
+🗄️ Banco de Dados
+Importe o arquivo:
+
+database/horizonte_viagens.sql
+
+👨‍💻 Autor
+Nicolas Sebastião de Souza
+
+Projeto desenvolvido para a disciplina Desenvolvimento Web II - FATEC Itaquera.
